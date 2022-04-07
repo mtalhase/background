@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "339329628361",
+    "project_id": "background-bcb91",
+    "storage_bucket": "background-bcb91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339329628361:android:cc22fd95e8e4421f357518",
+        "android_client_info": {
+          "package_name": "com.example.backgroundsrvice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339329628361-1ua1dfnb6v3ivtq449n3fhm90v58kpdj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGhlZbCV6liOtORUcQrljDW8Zt5PGRYho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339329628361-1ua1dfnb6v3ivtq449n3fhm90v58kpdj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
